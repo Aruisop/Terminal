@@ -1,0 +1,19 @@
+# Ignore Visual Studio cache
+.vs/
+*.vsidx
+*.user
+*.suo
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore node_modules (frontend stuff)
+node_modules/
+
+# Ignore logs
+*.log
+
+# Ignore OS junk
+Thumbs.db
+.DS_Store
